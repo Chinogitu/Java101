@@ -1,0 +1,5 @@
+server.1234.com
+adnim.username=create
+addon.admin=username
+server.name=assign server
+git add README.md
